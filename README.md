@@ -14,7 +14,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
@@ -36,8 +35,8 @@
 
 | Frontend         | Styling              | Goodies & Libraries                |
 |------------------|---------------------|------------------------------------|
-| React.js ⚛️      | Bootstrap 💜        | react-icons, axios, react-pdf,     |
-|                  | React-Bootstrap 🎀  | typewriter-effect, react-router-dom|
+| React.js ⚛️      |Tailwind CSS 💜        | react-icons, axios, react-pdf,     |
+|                  | React-Tailwind 🎀  | typewriter-effect, react-router-dom|
 
 ---
 
@@ -82,17 +81,6 @@ src/
    npm start
    ```
    > Open [http://localhost:3000](http://localhost:3000) in your browser and explore!
-
----
-
-## 🖼️ Screenshots
-
-<p align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=Your+Screenshot+Here" width="400"/>
-  <img src="https://via.placeholder.com/400x200.png?text=Another+Screenshot" width="400"/>
-</p>
-
-*Add your own screenshots above to show off your work!*
 
 ---
 
